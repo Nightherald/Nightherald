@@ -4,14 +4,16 @@
 
 _"This isn’t even my final form!" ~ Frieza from Dragonball Z_
 
----
+
 - 🌱 I’m currently applying Python on the following interdisciplinary fields:
   > Automation
+   
   > Data Science
+  
   > Machine Learning
 
----
-- 👯 I’m looking to collaborate on MLOps, by setting machine learning models on production environments.
+
+- 👯 I’m looking to collaborate on MLOps, by setting machine learning models on production environments
 - 📫 How to reach me: stratos.marin@gmail.com
 
 ---
