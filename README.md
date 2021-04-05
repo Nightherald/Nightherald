@@ -4,21 +4,23 @@
 
 _"This isn’t even my final form!" ~ Frieza from Dragonball Z_
 
-
-- 🌱 I’m currently applying Python on the following interdisciplinary fields:
+---
+- 🌱 I’m currently applying Python - and many of its frameworks/libraries - on the following interdisciplinary fields:
   > Automation
    
   > Data Science
   
   > Machine Learning
 
-
-- 👯 I’m looking to collaborate on MLOps, by setting machine learning models on production environments
+---
+- 👯 I’m looking to collaborate on [MLOps](https://en.wikipedia.org/wiki/MLOps), by setting up machine learning models on production environments
 - 📫 How to reach me: stratos.marin@gmail.com
 
 ---
 ### Sneak peek
-[![Nightheald's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nightherald)](https://github.com/anuraghazra/github-readme-stats)
+[![Nightherald's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nightherald&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Nightherald's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nightherald&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Nightherald/Nightherald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
