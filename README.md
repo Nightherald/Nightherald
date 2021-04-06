@@ -1,20 +1,19 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on <ins>reconstructing my github profile</ins>
+🔭 I’m currently working on <ins>reconstructing my github profile</ins>
+- Daily updates on repositories, stay tuned 🚀
 
 _"This isn’t even my final form!" ~ Frieza from Dragonball Z_
 
 ---
-- 🌱 I’m currently applying Python - and many of its frameworks/libraries - on the following interdisciplinary fields:
-  > Automation
-   
-  > Data Science
-  
-  > Machine Learning
+🌱 I’m currently applying Python - and many of its frameworks/libraries - on the following interdisciplinary fields:
+- Automation
+- Data Science
+- Machine Learning
 
 ---
-- 👯 I’m looking to collaborate on [MLOps](https://en.wikipedia.org/wiki/MLOps), by setting up machine learning models on production environments
-- 📫 How to reach me: stratos.marin@gmail.com
+👯 I’m looking to collaborate on [MLOps](https://en.wikipedia.org/wiki/MLOps), by setting up machine learning models on production environments
+📫 How to reach me: stratos.marin@gmail.com
 
 ---
 ### Sneak peek
