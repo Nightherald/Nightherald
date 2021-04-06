@@ -13,6 +13,7 @@ _"This isn’t even my final form!" ~ Frieza from Dragonball Z_
 
 ---
 👯 I’m looking to collaborate on [MLOps](https://en.wikipedia.org/wiki/MLOps), by setting up machine learning models on production environments
+
 📫 How to reach me: stratos.marin@gmail.com
 
 ---
