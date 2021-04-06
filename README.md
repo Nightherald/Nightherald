@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 👋📢
 
 🔭 I’m currently working on <ins>reconstructing my github profile</ins>
 - Daily updates on repositories, stay tuned 🚀
