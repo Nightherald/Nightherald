@@ -1,4 +1,5 @@
 ## Hello there 👋📢
+I'm Stratos and I am a software engineer with a focus on machine learning. I like to design and develop artificial intelligence applications based on practical goals. Having participated in all stages of the product development process - and solving business needs in a variety of programming tools - I am a firm believer of the language-agnostic software paradigm.
 
 🌱 I’m currently applying Python - and many of its frameworks/libraries - on the following interdisciplinary fields:
 - Automation
@@ -18,7 +19,9 @@
 - Data Science & Machine Learning -> Python, R, Hadoop & Hive, Spark, Keras, Tensorflow
 
 ---
-👯 I’m looking to collaborate on [MLOps](https://en.wikipedia.org/wiki/MLOps), by setting up machine learning models on production environments.
+👯 I like working in teams so I’m looking to collaborate on [MLOps](https://en.wikipedia.org/wiki/MLOps) projects, by setting up machine learning models on production environments.
+
+> “If you want to go fast, go alone. If you want to go far, go together.” - african proverb
 
 📫 How to reach me: stratos.marin@gmail.com
 
