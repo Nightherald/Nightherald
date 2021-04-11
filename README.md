@@ -7,15 +7,17 @@
 
 ---
 📚 Education:
-- [BSc Digital Systems | Communication Systems and Networks](https://www.ds.unipi.gr/en/home-en/) , 
+- [BSc Digital Systems | Communication Systems and Networks](https://www.ds.unipi.gr/en/home-en/)
 - [MSc in Business Analytics | Data Warehousing | Data Science](http://analytics.aueb.gr/)
 
+---
 🔨 Software Stack:
 - Web Development -> HTML5, CSS3, Bootstrap, SASS, JavaScript, jQuery, AngularJS, TypeScript, C#
 - DevOps & Automation -> Azure DevOps, Bash, PowerShell, Python, C#, Docker
 - Databases -> MSSQL, MySQL, MongoDB, Neo4j
 - Data Science & Machine Learning -> Python, R, Hadoop & Hive, Spark, Keras, Tensorflow
 
+---
 👯 I’m looking to collaborate on [MLOps](https://en.wikipedia.org/wiki/MLOps), by setting up machine learning models on production environments.
 
 📫 How to reach me: stratos.marin@gmail.com
