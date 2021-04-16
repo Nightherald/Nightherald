@@ -32,6 +32,10 @@ I'm Stratos and I am a software engineer with a focus on machine learning. I lik
 ### 📫 How to reach me: stratos.marin@gmail.com
 
 ---
+### Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nightherald&repo=breast-cancer-logistic-regression)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 ### Sneak peek
 [![Nightherald's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nightherald&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
