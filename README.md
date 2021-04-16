@@ -7,23 +7,29 @@ I'm Stratos and I am a software engineer with a focus on machine learning. I lik
 - Machine Learning
 
 ---
-📚 Education:
+### 📚 Education:
 - [BSc Digital Systems | Communication Systems and Networks](https://www.ds.unipi.gr/en/home-en/)
 - [MSc in Business Analytics | Data Warehousing | Data Science](http://analytics.aueb.gr/)
 
 ---
-🔨 Software Stack:
-- Web Development -> HTML5, CSS3, Bootstrap, SASS, JavaScript, jQuery, AngularJS, TypeScript, C#
-- DevOps & Automation -> Azure DevOps, Bash, PowerShell, Python, C#, Docker
-- Databases -> MSSQL, MySQL, MongoDB, Neo4j
-- Data Science & Machine Learning -> Python, R, Hadoop & Hive, Spark, Keras, Tensorflow
+### 🔨 Software Stack:
+#### Current:
+- **Data Science** -> Python, R
+- **Big Data Processing** -> Spark, Hadoop & Hive
+- **Machine Learning** -> Keras, Tensorflow
+- **Databases** -> MSSQL, MySQL, MongoDB, Neo4j
+ 
+#### Previous:
+- **Web Development** -> HTML5, CSS3, Bootstrap, SASS, JavaScript, jQuery, AngularJS, TypeScript, C#
+- **DevOps & Automation** -> Azure DevOps, Bash, PowerShell, Python, C#, Docker
+
 
 ---
 👯 I like working in teams so I’m looking to collaborate on [MLOps](https://en.wikipedia.org/wiki/MLOps) projects, by setting up machine learning models on production environments.
 
 > “If you want to go fast, go alone. If you want to go far, go together.” - african proverb
 
-📫 How to reach me: stratos.marin@gmail.com
+### 📫 How to reach me: stratos.marin@gmail.com
 
 ---
 ### Sneak peek
