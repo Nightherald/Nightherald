@@ -22,11 +22,12 @@ I'm Stratos and I am a software engineer with a focus on machine learning. I lik
 - **DevOps & Automation** -> Azure DevOps, Bash, PowerShell, Python, C#, Docker
 
 ---
-👯 I like working in teams so I’m looking to collaborate on [MLOps](https://en.wikipedia.org/wiki/MLOps) projects, by setting up machine learning models on production environments.
+## 📫 How to reach me
+You can email me at: stratos.marin@gmail.com
+
+💬👀 I like working in teams so I’m looking to collaborate on [MLOps](https://en.wikipedia.org/wiki/MLOps) projects, by setting up machine learning models on production environments.
 
 > “If you want to go fast, go alone. If you want to go far, go together.” - african proverb
-
-### 📫 How to reach me: stratos.marin@gmail.com
 
 <!--
 **Nightherald/Nightherald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
