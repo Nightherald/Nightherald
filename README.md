@@ -21,7 +21,6 @@ I'm Stratos and I am a software engineer with a focus on machine learning. I lik
 - **Web Development** -> HTML5, CSS3, Bootstrap, SASS, JavaScript, jQuery, AngularJS, TypeScript, C#
 - **DevOps & Automation** -> Azure DevOps, Bash, PowerShell, Python, C#, Docker
 
----
 ## 📫 How to reach me
 You can email me at: stratos.marin@gmail.com
 
