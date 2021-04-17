@@ -7,12 +7,12 @@ I'm Stratos and I am a software engineer with a focus on machine learning. I lik
 - Machine Learning
 
 ---
-### 📚 Education:
+## 📚 Education
 - [BSc Digital Systems | Communication Systems and Networks](https://www.ds.unipi.gr/en/home-en/)
 - [MSc in Business Analytics | Data Warehousing | Data Science](http://analytics.aueb.gr/)
 
 ---
-### 🔨 Software Stack:
+## 🔨 Software Stack
 #### Current:
 - **Data Science** -> Python, R
 - **Big Data Processing** -> Spark, Hadoop & Hive
