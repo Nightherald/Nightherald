@@ -31,10 +31,6 @@ I'm Stratos and I am a software engineer with a focus on machine learning. I lik
 
 ### 📫 How to reach me: stratos.marin@gmail.com
 
----
-### Sneak peek
-[![Nightherald's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nightherald&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Nightherald/Nightherald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,6 +41,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - Position
 - Interests
+
+### Sneak peek
+[![Nightherald's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nightherald&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Pinned Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nightherald&repo=breast-cancer-logistic-regression&theme=dark)](https://github.com/Nightherald/breast-cancer-logistic-regression)
